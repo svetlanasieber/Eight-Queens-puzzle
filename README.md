@@ -4,3 +4,4 @@
 
 
 
+![Chessboard480 svg](https://github.com/svetlanasieber/Eight-queens-puzzle/assets/135451084/f9e0d5ba-d601-4691-a8a5-81267c97e7ed)
